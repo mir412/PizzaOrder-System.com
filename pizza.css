@@ -1,0 +1,60 @@
+.container {
+
+    border: 1px black solid;
+    
+    width: 500px;
+    
+    height: 200px;
+    
+    margin: auto;
+    
+    padding: 20px;
+    
+    
+    }
+    
+    .container h1 {
+    
+    text-align: center;
+    
+    line-height: 0px;
+    
+    }
+    
+    .container input {
+    
+    margin: 10px;
+    
+    }
+    
+    .l {
+    
+    width: 40%;
+    
+    height: 100px;
+    
+    }
+    
+    .m {
+    
+    width: 30%;
+    
+    height: 100px;
+    
+    }
+    
+    .r {
+    
+    width: 30%;
+    
+    height: 100px;
+    
+    }
+    
+    .formclass {
+    
+    display: flex;
+    
+    }
+    
+    
